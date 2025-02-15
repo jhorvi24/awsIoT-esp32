@@ -13,7 +13,7 @@
 #define led 2
 
 #define monitoreo_topic "esp32/sensors" //TOPIC MQTT
-#define suscribe_topic "esp32/actuators"
+#define suscribe_topic "esp32/actuators" //Topic
 
 float h;
 float t;
