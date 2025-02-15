@@ -1,7 +1,7 @@
 #include <pgmspace.h>
 
 #define credentials
-#define THINGSNAME "esp32_uao"
+#define THINGSNAME "esp32_UAO"
 
 const char* ssid = "";
 const char* password = "";
